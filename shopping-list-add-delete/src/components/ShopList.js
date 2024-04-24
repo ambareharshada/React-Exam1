@@ -20,7 +20,7 @@ const ShopList = () => {
   };
   return (
     <>
-      <h1>Shopping List</h1>
+      <h1>Shopping List / TO-DO List</h1>
       <div style={{marginBottom:"5px"}}>
       <input
         type="text"
